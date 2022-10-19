@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike-shoes",
+      "price": 999,
+      "city": "Bangalore"
+    },
+    {
+      "id": 2,
+      "name": "Bike-shoes",
+      "price": 989,
+      "city": "Bangalore"
+    },
+    {
+      "id": 3,
+      "name": "Sike-shoes",
+      "price": 2999,
+      "city": "Hangalore"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Sahoo",
+      "tcp": 200,
+      "mall": "meenakshi"
+    },
+    {
+      "id": 2,
+      "name": "Radhe-Sham",
+      "tcp": 299,
+      "mall": "Toxic"
+    },
+    {
+      "id": 3,
+      "name": "Vikram",
+      "tcp": 180,
+      "mall": "Forum-Mall"
+    }
+  ]
+}

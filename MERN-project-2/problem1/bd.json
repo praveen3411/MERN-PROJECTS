@@ -1,0 +1,27 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"one"
+        },
+        {
+            "id":2,
+            "name":"two"
+        },
+        {
+            "id":3,
+            "name":"three"
+        }
+
+    ],
+    "movie":[
+        {
+            "id":1,
+            "name":"Sahoo"
+        },
+        {
+            "id":2,
+            "name":"Bahuballi"
+        }
+    ]
+}

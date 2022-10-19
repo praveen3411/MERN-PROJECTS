@@ -1,0 +1,15 @@
+{
+  "name": "ass-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "serve": "nodemon ./one.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
