@@ -1,0 +1,50 @@
+{
+  "todos": [
+    { "0": "1", "task": "hello" },
+    {
+      "id": 3,
+      "task": "complete-mongo-Db",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    { "id": 4, "task": "complete-html", "status": "Done", "feeling": "happy" },
+    { "id": 5, "task": "complete-css", "status": "Done", "feeling": "happy" },
+    {
+      "id": 6,
+      "task": "complete-javascript",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    {
+      "id": 7,
+      "task": "complete-chakra-ui",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    { "task": "Completed-Mern", "status": "Done", "felling": "happy", "id": 7 }
+  ],
+  "contacts": [
+    { "0": "1", "task": "hello" },
+    {
+      "id": 3,
+      "task": "complete-mongo-Db",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    { "0": "4", "name": "Govind", "number": 4564567654, "age": 23 },
+    { "id": 5, "task": "complete-css", "status": "Done", "feeling": "happy" },
+    {
+      "id": 6,
+      "task": "complete-javascript",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    {
+      "id": 7,
+      "task": "complete-chakra-ui",
+      "status": "Done",
+      "feeling": "happy"
+    },
+    { "task": "Completed-Mern", "status": "Done", "felling": "happy", "id": 7 }
+  ]
+}
