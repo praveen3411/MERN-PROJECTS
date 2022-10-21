@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    { "id": 1, "name": "paveen kumar", "number": 7702441161 },
+    { "id": 2, "name": "ganesh kumar", "number": 7702344161 },
+    { "id": 3, "name": "mahesh kumar", "number": 8892441161 },
+    { "id": 4, "name": "bhuvan kumar", "number": 4455889330 },
+    { "name": "bhuvan kumar", "number": 4455889330, "id": 5 }
+  ],
+  "products": [
+    { "id": 1, "name": "clothes", "price": 1161 },
+    { "id": 2, "name": "washing soaps", "price": 44161 },
+    { "id": 3, "name": "fridge", "price": 41161 },
+    { "id": 4, "name": "foods", "price": 161 },
+    { "id": 5, "name": "shampoo", "price": 61 },
+    { "name": "bhuvan kumar", "number": 4455889330, "id": 6 }
+  ],
+  "users": [
+    { "id": 1, "name": "paveen kumar", "id_number": 7702441161 },
+    { "id": 2, "name": "ganesh kumar", "id_number": 7702344161 },
+    { "id": 3, "name": "mahesh kumar", "id_number": 8892441161 },
+    { "id": 4, "name": "viswa kumar", "id_number": 9002441161 },
+    { "id": 5, "name": "pavan kumar", "id_number": 5902441161 },
+    { "name": "bhuvan kumar", "number": 4455889330, "id": 6 },
+    { "name": "bhuvan kumar", "number": 4455889330, "id": 7 },
+    { "name": "bhuvan kumar", "number": 4455889330, "id": 8 },
+    {
+      "name": "bhuvan kumar",
+      "email": "ypraveen341@gmail.com",
+      "password": "123jflks",
+      "id": 9
+    },
+    {
+      "name": "bhuvankumar",
+      "email": "ypraveen341@gmail.com",
+      "password": "123jflks",
+      "id": 10
+    },
+    {
+      "name": "bhuvankumar",
+      "email": "ypraveen341@gmail.com",
+      "password": "123jflks",
+      "id": 11
+    }
+  ]
+}
