@@ -17,5 +17,5 @@
 ## PROJECT-5
 5. Working on Schemas and working on url parms like sorting,limit,orderwise
 
-## PROJECT-5
+## PROJECT-6
 6. E-Commerce Application with Express Routes and mongoose Schemas& node.js
