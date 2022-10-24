@@ -19,3 +19,6 @@
 
 ## PROJECT-6
 6. E-Commerce Application with Express Routes and mongoose Schemas& node.js
+
+## PROJECT-7
+7. Mongodb connection's, Mongoose-Models, Express routes for [users,cart,products], running a sever with nodemon
