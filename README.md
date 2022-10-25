@@ -22,3 +22,8 @@
 
 ## PROJECT-7
 7. Mongodb connection's, Mongoose-Models, Express routes for [users,cart,products], running a sever with nodemon
+
+## PROJECT-8
+8. Using Redux, react-redux, redux-thunk, i Developed redux porject Counter-App 
+
+
