@@ -26,4 +26,7 @@
 ## PROJECT-8
 8. Using Redux, react-redux, redux-thunk, i Developed redux porject Counter-App 
 
+## PROJECT-9
+9. Redux apps, 1.Counter-App, 2.Todo-app, 3.CRUD-operations
+
 
