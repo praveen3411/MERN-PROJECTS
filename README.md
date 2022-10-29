@@ -31,4 +31,8 @@
 
 
 ## PROJECT-10
-9. Redux-Revision
+10. Redux-Revision
+
+
+## PROJECT-11
+11. Redux-FrontEnd E-commerce Website using thunk and middelwares
